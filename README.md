@@ -40,7 +40,7 @@ The screenshot shows two connected SSH sessions, a system resource panel, and th
 
 ## Download & installation
 
-1. Visit the [Releases page](https://github.com/DaNnO-r0x/Multi-Terminal/releases).
+1. Visit the [Releases page](https://github.com/DaNnO-r0x/Multi-Terminal/).
 2. Download the `.dmg` file from the latest available release.
 3. Open the DMG and move **Multi Terminal** to your Applications folder, if prompted.
 4. Launch the app and configure your first server connection.
@@ -63,6 +63,6 @@ Multi Terminal is under active development. Features, availability, and compatib
 
 **Built for developers, system administrators, and cybersecurity professionals.**
 
-[Download releases](https://github.com/DaNnO-r0x/Multi-Terminal/releases) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
+[Download releases](https://github.com/DaNnO-r0x/Multi-Terminal/) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
 
 </div>
