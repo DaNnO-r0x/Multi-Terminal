@@ -8,7 +8,7 @@
 
 ![macOS](https://img.shields.io/badge/Platform-macOS-111111?style=for-the-badge&logo=apple) ![SSH](https://img.shields.io/badge/Protocol-SSH-00e69b?style=for-the-badge) ![SFTP](https://img.shields.io/badge/Transfer-SFTP-ff00bb?style=for-the-badge)
 
-![Multi Terminal app interface](assets/multi-terminal-preview.png)
+![Multi Terminal - macOS SSH & SFTP](assets/multi-terminal-preview.png)
 
 </div>
 
