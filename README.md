@@ -8,6 +8,8 @@
 
 ![macOS](https://img.shields.io/badge/Platform-macOS-111111?style=for-the-badge&logo=apple) ![SSH](https://img.shields.io/badge/Protocol-SSH-00e69b?style=for-the-badge) ![SFTP](https://img.shields.io/badge/Transfer-SFTP-ff00bb?style=for-the-badge)
 
+[![Download Multi Terminal v1.0.0](https://img.shields.io/badge/Download-Multi%20Terminal%20v1.0.0-00e69b?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)
+
 ![Multi Terminal](multi-terminal-preview.png)
 
 </div>
@@ -34,28 +36,28 @@ Its dark interface combines neon green and magenta accents with a practical, mul
 
 ## Screenshot
 
-The screenshot shows two connected SSH sessions, a system resource panel, and the integrated SFTP file manager.
+The screenshot shows two SSH sessions, a system resource panel, and the integrated SFTP file manager.
 
-[Download releases]([https://github.com/DaNnO-r0x/Multi-Terminal/](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
+## Download & Installation
 
-## Download & installation
+### [⬇ Download Multi Terminal v1.0.0 for macOS](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)
 
-1. Visit the [Releases page]([https://github.com/DaNnO-r0x/Multi-Terminal/](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)).
-2. Download the `.dmg` file from the latest available release.
-3. Open the DMG and move **Multi Terminal** to your Applications folder, if prompted.
-4. Launch the app and configure your first server connection.
+1. Open the [Multi Terminal v1.0.0 release](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0).
+2. Under **Assets**, download `MultiTerminal.dmg`.
+3. Open the downloaded DMG and move **Multi Terminal** into your Applications folder, if prompted.
+4. Launch Multi Terminal and configure your first SSH connection.
 
-**Platform:** macOS. Check each release for supported macOS versions and architectures.
+**Platform:** macOS. Check the release notes for supported versions and architectures.
 
-## Security notes
+## Security Notes
 
 - Connect only to systems you own or are authorized to administer.
-- Never commit passwords, SSH private keys, API tokens, or server credentials.
-- Review SSH host key fingerprints before trusting unfamiliar servers.
+- Never publish passwords, SSH private keys, API tokens, or server credentials.
+- Verify SSH host key fingerprints before trusting unfamiliar servers.
 
-## Project status
+## Project Status
 
-Multi Terminal is under active development. Features, availability, and compatibility may change between releases.
+Multi Terminal is under active development. Features and compatibility may change between releases.
 
 ---
 
@@ -63,6 +65,7 @@ Multi Terminal is under active development. Features, availability, and compatib
 
 **Built for developers, system administrators, and cybersecurity professionals.**
 
-
+[Release v1.0.0](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
 
 </div>
+
