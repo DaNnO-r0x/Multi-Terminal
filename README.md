@@ -36,7 +36,7 @@ Its dark interface combines neon green and magenta accents with a practical, mul
 
 The screenshot shows two connected SSH sessions, a system resource panel, and the integrated SFTP file manager.
 
-![Multi Terminal SSH sessions and SFTP manager](assets/multi-terminal-preview.png)
+[Download releases]([https://github.com/DaNnO-r0x/Multi-Terminal/](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
 
 ## Download & installation
 
@@ -63,6 +63,6 @@ Multi Terminal is under active development. Features, availability, and compatib
 
 **Built for developers, system administrators, and cybersecurity professionals.**
 
-[Download releases]([https://github.com/DaNnO-r0x/Multi-Terminal/](https://github.com/DaNnO-r0x/Multi-Terminal/releases/tag/v1.0.0)) · [Repository](https://github.com/DaNnO-r0x/Multi-Terminal)
+
 
 </div>
